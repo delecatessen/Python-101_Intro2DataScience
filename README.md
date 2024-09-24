@@ -1,3 +1,3 @@
 # Python-101
 
-Hi my name Oladele!! I am learing python. 
+Hi my name Oladele!! I am learing python. It's a slippery slope...
